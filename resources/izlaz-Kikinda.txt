@@ -1,0 +1,12 @@
+Spremni paketi (1)
+BK14857,Bor,Kikinda
+
+Poslati paketi (2)
+KL14142,Kikinda,Loznica
+KP14364,Kikinda,Pozarevac
+
+Primljeni paketi (1)
+KS13066,Kikinda,Sombor
+
+Vraceni paketi (1)
+LK12854,Leskovac,Kikinda

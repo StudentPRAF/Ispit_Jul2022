@@ -1,0 +1,37 @@
+Spremni paketi (12)
+BK14857,Bor,Kikinda
+NP11495,Nis,Pirot
+NK13901,Novi Pazar,Kragujevac
+PN12911,Pozarevac,Nis
+SS10020,Sabac,Sombor
+SS11485,Smederevo,Smederevo
+SS14657,Sombor,Sabac
+SP10003,Sremska Mitrovica,Pozarevac
+SK11364,Subotica,Kraljevo
+SN13944,Subotica,Novi Sad
+VN13448,Vrsac,Nis
+ZP12343,Zajecar,Prokuplje
+
+Poslati paketi (14)
+BV13371,Beograd,Valjevo
+KL14142,Kikinda,Loznica
+KP14364,Kikinda,Pozarevac
+KU11127,Kraljevo,Uzice
+KS11618,Krusevac,Sremska Mitrovica
+LS10236,Loznica,Smederevo
+LS11961,Loznica,Sremska Mitrovica
+PP10867,Pirot,Prokuplje
+PU13707,Pozarevac,Uzice
+PL11966,Pristina,Loznica
+PS14012,Pristina,Sabac
+SV13588,Sremska Mitrovica,Vrsac
+VU13529,Vranje,Uzice
+ZP10968,Zrenjanin,Prokuplje
+
+Primljeni paketi (3)
+BS13363,Beograd,Smederevo
+KS13066,Kikinda,Sombor
+KU14913,Kragujevac,Uzice
+
+Vraceni paketi (1)
+LK12854,Leskovac,Kikinda

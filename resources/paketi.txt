@@ -1,0 +1,30 @@
+ZP10968,Zrenjanin-Prokuplje;POSLAT
+LS10236,Loznica-Smederevo;POSLAT
+SN13944,Subotica-Novi Sad;SPREMAN
+SV13588,Sremska Mitrovica-Vrsac;POSLAT
+KU14913,Kragujevac-Uzice;POSLAT
+PP10867,Pirot-Prokuplje;POSLAT
+PL11966,Pristina-Loznica;POSLAT
+SS14657,Sombor-Sabac;SPREMAN
+PN12911,Pozarevac-Nis;SPREMAN
+KP14364,Kikinda-Pozarevac;POSLAT
+SP10003,Sremska Mitrovica-Pozarevac;SPREMAN
+NP11495,Nis-Pirot;SPREMAN
+SS10020,Sabac-Sombor;SPREMAN
+BV13371,Beograd-Valjevo;SPREMAN
+VU13529,Vranje-Uzice;POSLAT
+SS11485,Smederevo-Smederevo;SPREMAN
+LK12854,Leskovac-Kikinda;SPREMAN
+SK11364,Subotica-Kraljevo;SPREMAN
+PU13707,Pozarevac-Uzice;POSLAT
+BS13363,Beograd-Smederevo;POSLAT
+KS11618,Krusevac-Sremska Mitrovica;POSLAT
+BK14857,Bor-Kikinda;SPREMAN
+LS11961,Loznica-Sremska Mitrovica;POSLAT
+NK13901,Novi Pazar-Kragujevac;SPREMAN
+PS14012,Pristina-Sabac;POSLAT
+VN13448,Vrsac-Nis;SPREMAN
+ZP12343,Zajecar-Prokuplje;SPREMAN
+KU11127,Kraljevo-Uzice;POSLAT
+KS13066,Kikinda-Sombor;POSLAT
+KL14142,Kikinda-Loznica;POSLAT
